@@ -11,3 +11,4 @@ psutil
 Pillow
 humanize
 html_telegraph_poster
+lxml[html_clean]
