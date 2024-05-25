@@ -8,3 +8,12 @@ lxml[html_clean]
 https://github.com/1Danish-00/Telethon/archive/master.zip
 telegraph[aio]
 ffmpeg-python
+pyrogram
+TgCrypto
+hachoir
+motor
+pytz
+pyromod
+Pillow
+humanize
+
