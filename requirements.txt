@@ -16,4 +16,5 @@ pyromod
 Pillow
 humanize
 dockerfile
+pyaesni
 
