@@ -6,4 +6,4 @@ speedtest-cli
 html_telegraph_poster
 lxml[html_clean]
 https://github.com/1Danish-00/Telethon/archive/master.zip
--y git wget pv jq python3-dev ffmpeg mediainfo
+git wget pv jq python3-dev ffmpeg mediainfo
