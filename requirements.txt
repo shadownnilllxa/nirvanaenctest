@@ -8,4 +8,3 @@ lxml[html_clean]
 https://github.com/1Danish-00/Telethon/archive/master.zip
 telegraph[aio]
 ffmpeg-python
-neofetch wget -y -f
