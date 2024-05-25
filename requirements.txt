@@ -1,12 +1,7 @@
-pyrogram
-TgCrypto
-python-dotenv
-hachoir
-ffmpeg-python
 aiohttp
-motor
-pytz
-pyromod
+python-decouple
+pyaesni
 psutil
-Pillow
-humanize
+speedtest-cli
+https://github.com/1Danish-00/Telethon/archive/master.zip
+html_telegraph_poster
