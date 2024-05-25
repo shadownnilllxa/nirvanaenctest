@@ -1,6 +1,5 @@
 aiohttp
 python-decouple
-pyaesni
 psutil
 speedtest-cli
 html_telegraph_poster
