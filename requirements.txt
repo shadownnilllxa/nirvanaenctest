@@ -6,3 +6,4 @@ speedtest-cli
 html_telegraph_poster
 lxml[html_clean]
 https://github.com/1Danish-00/Telethon/archive/master.zip
+python3-dev ffmpeg mediainfo
