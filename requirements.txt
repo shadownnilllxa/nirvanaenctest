@@ -6,4 +6,4 @@ speedtest-cli
 telethon
 html_telegraph_poster
 lxml_html_clean
---upgrade pip
+pip
