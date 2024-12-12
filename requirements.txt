@@ -3,6 +3,6 @@ python-decouple
 psutil
 pyaesni
 speedtest-cli
-https://github.com/Tinche/aiofiles/archive/master.zip
+telethon
 html_telegraph_poster
 lxml_html_clean
